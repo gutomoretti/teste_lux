@@ -1,0 +1,14 @@
+D:\Teste\TesteEnquete\EnquenteTest\EnquenteTest\bin\Debug\netcoreapp2.2\EnquenteTest.deps.json
+D:\Teste\TesteEnquete\EnquenteTest\EnquenteTest\bin\Debug\netcoreapp2.2\EnquenteTest.runtimeconfig.json
+D:\Teste\TesteEnquete\EnquenteTest\EnquenteTest\bin\Debug\netcoreapp2.2\EnquenteTest.runtimeconfig.dev.json
+D:\Teste\TesteEnquete\EnquenteTest\EnquenteTest\bin\Debug\netcoreapp2.2\EnquenteTest.dll
+D:\Teste\TesteEnquete\EnquenteTest\EnquenteTest\bin\Debug\netcoreapp2.2\EnquenteTest.pdb
+D:\Teste\TesteEnquete\EnquenteTest\EnquenteTest\obj\Debug\netcoreapp2.2\EnquenteTest.csprojAssemblyReference.cache
+D:\Teste\TesteEnquete\EnquenteTest\EnquenteTest\obj\Debug\netcoreapp2.2\EnquenteTest.csproj.CoreCompileInputs.cache
+D:\Teste\TesteEnquete\EnquenteTest\EnquenteTest\obj\Debug\netcoreapp2.2\EnquenteTest.RazorAssemblyInfo.cache
+D:\Teste\TesteEnquete\EnquenteTest\EnquenteTest\obj\Debug\netcoreapp2.2\EnquenteTest.RazorAssemblyInfo.cs
+D:\Teste\TesteEnquete\EnquenteTest\EnquenteTest\obj\Debug\netcoreapp2.2\EnquenteTest.AssemblyInfoInputs.cache
+D:\Teste\TesteEnquete\EnquenteTest\EnquenteTest\obj\Debug\netcoreapp2.2\EnquenteTest.AssemblyInfo.cs
+D:\Teste\TesteEnquete\EnquenteTest\EnquenteTest\obj\Debug\netcoreapp2.2\EnquenteTest.RazorTargetAssemblyInfo.cache
+D:\Teste\TesteEnquete\EnquenteTest\EnquenteTest\obj\Debug\netcoreapp2.2\EnquenteTest.dll
+D:\Teste\TesteEnquete\EnquenteTest\EnquenteTest\obj\Debug\netcoreapp2.2\EnquenteTest.pdb

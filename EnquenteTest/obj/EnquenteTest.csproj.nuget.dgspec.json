@@ -1,0 +1,89 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Teste\\TesteEnquete\\EnquenteTest\\EnquenteTest\\EnquenteTest.csproj": {}
+  },
+  "projects": {
+    "D:\\Teste\\TesteEnquete\\EnquenteTest\\EnquenteTest\\EnquenteTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Teste\\TesteEnquete\\EnquenteTest\\EnquenteTest\\EnquenteTest.csproj",
+        "projectName": "EnquenteTest",
+        "projectPath": "D:\\Teste\\TesteEnquete\\EnquenteTest\\EnquenteTest\\EnquenteTest.csproj",
+        "packagesPath": "C:\\Users\\Guto\\.nuget\\packages\\",
+        "outputPath": "D:\\Teste\\TesteEnquete\\EnquenteTest\\EnquenteTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Guto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nugetserverdotnetcore.azurewebsites.net/nuget": {},
+          "http://platform.bematech.com.br/nuget/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://indecks-nuget.azurewebsites.net/nuget": {},
+          "https://www.myget.org/F/tnf/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
